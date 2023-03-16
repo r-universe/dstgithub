@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "GrpString"]
+	path = GrpString
+	url = https://github.com/dstgithub/grpstring
+	shallow = true
+	registered = true
