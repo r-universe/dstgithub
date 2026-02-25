@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "GrpString"]
 	path = GrpString
-	url = https://github.com/dstgithub/grpstring
+	url = https://github.com/dstgithub/grpstring-shiny
